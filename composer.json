@@ -25,6 +25,7 @@
         "phpstan/extension-installer": "^1.2",
         "phpstan/phpstan": "^1.10",
         "phpstan/phpstan-deprecation-rules": "^1.1",
-        "phpro/grumphp": "^1.1"
+        "phpro/grumphp": "^1.1",
+        "metadrop/composer-comments": "^1.0"
     }
 }

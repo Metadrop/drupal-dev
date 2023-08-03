@@ -28,5 +28,17 @@
         "phpro/grumphp": "^1.1",
         "metadrop/composer-comments": "^1.0",
         "metadrop/grumphp-php-compatibility": "^1.0"
+    },
+    "extra": {
+        "package-comments": {
+            "edgedesign/phpqa": "Master version is required because latest version (1.26.2) are not compatible with latest phpcpd version"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "metadrop/composer-comments": true,
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "phpro/grumphp": true
+        }
     }
 }

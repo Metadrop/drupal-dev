@@ -52,3 +52,9 @@ Ensure developers follow the Drupal coding standards and best practices. To make
 
 Swiss knife of scripts for speed up the development on drupal projects.
 [More info](https://github.com/metadrop/scripthor)
+
+
+## BackstopJS Addons
+
+Extends the standard functionality of BackstopJS.
+[More info](https://github.com/metadrop/backstopjs-addons)

@@ -10,6 +10,19 @@
     ],
     "license": "GPL-2.0-or-later",
     "minimum-stability": "dev",
+    "repositories": {
+        "metadrop/backstopjs-addons": {
+            "type": "package",
+            "package": {
+                "name": "metadrop/backstopjs-addons",
+                "version": "0.0.2",
+                "dist": {
+                    "url": "https://github.com/Metadrop/backstopjs-addons/archive/refs/tags/0.0.2.zip",
+                    "type": "zip"
+                }
+            }
+        }
+    },
     "require": {
         "bex/behat-step-time-logger": "^2.0",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7.0 || ^1.0",
@@ -29,7 +42,8 @@
         "metadrop/composer-comments": "^1.0",
         "metadrop/grumphp-php-compatibility": "^1.0",
         "drupal/image_styles_generator": "^1.0",
-        "drupal/config_inspector": "^2.1"
+        "drupal/config_inspector": "^2.1",
+        "metadrop/backstopjs-addons": "^0.0.2"
     },
     "extra": {
         "package-comments": {

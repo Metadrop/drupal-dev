@@ -26,6 +26,7 @@
         "phpstan/phpstan": "^1.10",
         "phpstan/phpstan-deprecation-rules": "^1.1",
         "phpro/grumphp": "^1.1 || ^2.8",
+        "metadrop/backstopjs-addons": "^1.0",
         "metadrop/composer-comments": "^1.0",
         "metadrop/grumphp-php-compatibility": "^1.0 || ^2.0",
         "drupal/image_styles_generator": "^1.0",

@@ -44,5 +44,10 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "phpro/grumphp": true
         }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "rm -f vendor/bin/composer"
+        ]
     }
 }

@@ -1,7 +1,7 @@
 {
     "name": "metadrop/drupal-dev",
     "description": "Development dependencies for Drupal projects on top of drupal/core-dev",
-    "type": "metapackage",
+    "type": "library",
     "authors": [
         {
             "name": "Omar",

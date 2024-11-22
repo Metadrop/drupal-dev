@@ -37,11 +37,6 @@
     "extra": {
         "package-comments": {
             "edgedesign/phpqa": "Master version is required because latest version (1.26.2) are not compatible with latest phpcpd version"
-        },
-	"dev-files": {
-            "bin": [
-                "composer"
-            ]
         }
     },
     "config": {

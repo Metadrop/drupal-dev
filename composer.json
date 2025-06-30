@@ -32,7 +32,8 @@
         "drupal/image_styles_generator": "^1.0",
         "drupal/config_inspector": "^2.1",
         "mxr576/ddqg-composer-audit": "^1.2",
-        "liborm85/composer-vendor-cleaner": "^1.7"
+        "liborm85/composer-vendor-cleaner": "^1.7",
+        "phpmd/phpmd": "^2.1"
     },
     "extra": {
         "package-comments": {

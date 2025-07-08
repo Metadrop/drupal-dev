@@ -23,7 +23,7 @@
         "drupal/behat_javascript": "^1.0",
         "metadrop/drupal-updater": "^1.0",
         "phpstan/extension-installer": "^1.2",
-        "phpstan/phpstan": "^1.10",
+        "phpstan/phpstan": "^2.1",
         "phpstan/phpstan-deprecation-rules": "^1.1",
         "phpro/grumphp": "^1.1 || ^2.8",
         "metadrop/backstopjs-addons": "^1.0",

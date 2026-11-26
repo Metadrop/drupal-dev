@@ -3,10 +3,6 @@
 On top of [drupal/core-dev](https://github.com/drupal/core-dev), this package adds more development
 dependencies that are useful in any drupal development.
 
-## Devel
-
-[Devel](https://www.drupal.org/project/devel) provides suite of modules containing helpful tools for module developers and themers.
-
 ## PHP Code Sniffer.
 
 Verify that the code follows the best practices. It will integrate the own [drupal coding standards](https://www.drupal.org/project/coder).
